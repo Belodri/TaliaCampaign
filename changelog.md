@@ -1,21 +1,9 @@
+# [0.1] - 2024-04-03
+Changelog started
+## Fixed
+- Players switching to shared vision when unselecting their token. Token vision is now set to = player vision.
+
 # [] - xxxx-xx-xx
 ## Added
 ## Changed
 ## Fixed
-
- 
-# [0.1] - 2024-04-01
-Repo created.
-## Added Items
-### Potions
-- Philter of Love
-
-### Poisons
-- Potion of Poison (unfinished)
-- Malice
-
-### Artisan's Tools
-- Painter's Supplies (INT)
-- Cook's Utensils (WIS)
-- Poisoner's Kit (WIS)
-- 
