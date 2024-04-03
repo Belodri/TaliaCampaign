@@ -36,6 +36,7 @@ Changelog started
 - Murderous Strength tracking of activation condition is missing. (rework this via macro once custom grappled condition has been implemented)
 - Murderous Strength image is missing.
 - Tattoo of the Mountain image is missing.
+- Vice Grip's warpgate mutation is currently only applying one way: target token attaching to actor token, it should be both ways.
 
 # [] - xxxx-xx-xx
 ## Added
