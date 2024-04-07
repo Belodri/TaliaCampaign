@@ -1,3 +1,17 @@
+# [0.1.1] - 2024-04-07
+- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+## Added
+- Hotkeys for layer selection (see settings for customisation)
+- Potions
+- - Potion of Maximum Power
+  - Potion of Advantage
+  - Potion of Greater Healing
+  - Potion of Superior Healing
+  - Potion of Supreme Healing
+  - Oil of Slipperiness
+## Known Issues
+- Potion of Maximum Power doesn't consume it's AE which needs to be done via effect macro instead. The limitation causing this will likely get fixed in dnd5e3.2.
+
 # [0.1.1] - 2024-04-06
 - Calendar time upon starting: Quintus 11, 1497; 07:45:39
 ## Added
