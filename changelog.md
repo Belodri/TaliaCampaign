@@ -1,3 +1,62 @@
+# [0.1.1] - 2024-04-08
+- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+## Added
+- Function for handling token size changes via world script. Can be called via TaliaWorldScriptFunctions.makeLargerOrSmaller(token, mode, steps).
+- Macro (smallerOrLarger) for changing token size.
+- Potions
+- - Potion of Growth
+  - Potion of Diminuation
+
+# [0.1.1] - 2024-04-07
+- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+## Added
+- Hotkeys for layer selection (see settings for customisation)
+- Potions
+- - Potion of Maximum Power
+  - Potion of Advantage
+  - Potion of Greater Healing
+  - Potion of Superior Healing
+  - Potion of Supreme Healing
+  - Oil of Slipperiness
+## Known Issues
+- Potion of Maximum Power doesn't consume it's AE which needs to be done via effect macro instead. The limitation causing this will likely get fixed in dnd5e3.2.
+
+# [0.1.1] - 2024-04-06
+- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+## Added
+- AE for Danger Sense with advantage reminder.
+- Stable Footing AE (via CE) on Rage
+- Homebrew Rules Journal
+- Homebrew Rule regarding the expiration of temporary hit points.
+- Figurine of a Rat
+- Potions
+- - Water Breathing
+  - Bludgeoning Resistance
+  - Piercing Resistance
+  - Slashing Resistance
+  - Healing
+  - Acid Resistance
+  - Cold Resistance
+  - Force Resistance
+  - Lightning Resistance
+  - Necrotic Resistance
+  - Poison Resistance
+  - Psychic Resistance
+  - Radiant Resistance
+  - Thunder Resistance
+  - Potion of Heroism
+  - Potion of Gaseous Form
+## Changed
+- Potion of Heroism changed to: "When you drink this potion you gain 10 temporary hit points. Additionally you are under the effect of the Bless spell for 1 hour (no concentration required)."
+- Dead Knight's Chain Shirt: removed the 1h time limit for the temp HP (now lasts until long rest or until enough damage is taken).
+## Fixed
+- corrupt image data paths for Bear Spirit subitems
+- corrupt image data path for Dead Knight's Chain Shirt
+- corrupt image data path for Fearghas actor prototype token
+- Dead Knight's Chain Shirt item macro
+## Known Issues
+- Healing application via chat messages is broken for temporary healing
+
 # [0.1] - 2024-04-03
 Changelog started
 ## Fixed
@@ -39,6 +98,7 @@ Changelog started
 - Vice Grip's warpgate mutation is currently only applying one way: target token attaching to actor token, it should be both ways.
 
 # [] - xxxx-xx-xx
+- Calendar time upon starting:
 ## Added
 ## Changed
 ## Fixed
