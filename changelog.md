@@ -1,3 +1,12 @@
+# [0.1.1] - 2024-04-08
+- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+## Added
+- Function for handling token size changes via world script. Can be called via TaliaWorldScriptFunctions.makeLargerOrSmaller(token, mode, steps).
+- Macro (smallerOrLarger) for changing token size.
+- Potions
+- - Potion of Growth
+  - Potion of Diminuation
+
 # [0.1.1] - 2024-04-07
 - Calendar time upon starting: Quintus 11, 1497; 07:45:39
 ## Added
