@@ -1,3 +1,8 @@
+# [0.1.2] - 2024-04-09
+- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+## Fixed
+- Breath of the Dragon ItemMacro
+
 # [0.1.1] - 2024-04-08
 - Calendar time upon starting: Quintus 11, 1497; 07:45:39
 ## Added
