@@ -1,10 +1,12 @@
-# [0.1.2] - 2024-04-09
-- Calendar time upon starting: Quintus 11, 1497; 07:45:39
+# [0.1.2] - 2024-04-10
 ## Fixed
-- Breath of the Dragon ItemMacro
+- Breath of the Dragon ItemMacro, see issues
+
+# [0.1.2] - 2024-04-09
+## Fixed
+- Breath of the Dragon ItemMacro, see issues
 
 # [0.1.1] - 2024-04-08
-- Calendar time upon starting: Quintus 11, 1497; 07:45:39
 ## Added
 - Function for handling token size changes via world script. Can be called via TaliaWorldScriptFunctions.makeLargerOrSmaller(token, mode, steps).
 - Macro (smallerOrLarger) for changing token size.
@@ -13,7 +15,6 @@
   - Potion of Diminuation
 
 # [0.1.1] - 2024-04-07
-- Calendar time upon starting: Quintus 11, 1497; 07:45:39
 ## Added
 - Hotkeys for layer selection (see settings for customisation)
 - Potions
@@ -27,7 +28,6 @@
 - Potion of Maximum Power doesn't consume it's AE which needs to be done via effect macro instead. The limitation causing this will likely get fixed in dnd5e3.2.
 
 # [0.1.1] - 2024-04-06
-- Calendar time upon starting: Quintus 11, 1497; 07:45:39
 ## Added
 - AE for Danger Sense with advantage reminder.
 - Stable Footing AE (via CE) on Rage
