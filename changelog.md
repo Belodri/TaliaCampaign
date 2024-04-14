@@ -1,4 +1,4 @@
-# [0.1.3] - 2024-04-14
+# [0.1.3]
 ## Added
 - Fey Step A-A animation & macro for randomisation of destination
 - Dm Teleport macro
@@ -8,15 +8,15 @@
 ## Known Issues
 - Sunbeam (Sun Statue) active effect is broken and needs to be reworked from the ground up to be less dependant on other modules.
 
-# [0.1.2] - 2024-04-10
+# [0.1.2]
 ## Fixed
 - Breath of the Dragon ItemMacro, see issues
 
-# [0.1.2] - 2024-04-09
+# [0.1.2]
 ## Fixed
 - Breath of the Dragon ItemMacro, see issues
 
-# [0.1.1] - 2024-04-08
+# [0.1.1]
 ## Added
 - Function for handling token size changes via world script. Can be called via TaliaWorldScriptFunctions.makeLargerOrSmaller(token, mode, steps).
 - Macro (smallerOrLarger) for changing token size.
@@ -24,7 +24,7 @@
 - - Potion of Growth
   - Potion of Diminuation
 
-# [0.1.1] - 2024-04-07
+# [0.1.1]
 ## Added
 - Hotkeys for layer selection (see settings for customisation)
 - Potions
@@ -37,7 +37,7 @@
 ## Known Issues
 - Potion of Maximum Power doesn't consume it's AE which needs to be done via effect macro instead. The limitation causing this will likely get fixed in dnd5e3.2.
 
-# [0.1.1] - 2024-04-06
+# [0.1.1]
 ## Added
 - AE for Danger Sense with advantage reminder.
 - Stable Footing AE (via CE) on Rage
@@ -112,8 +112,7 @@ Changelog started
 - Tattoo of the Mountain image is missing.
 - Vice Grip's warpgate mutation is currently only applying one way: target token attaching to actor token, it should be both ways.
 
-# [] - xxxx-xx-xx
-- Calendar time upon starting:
+# []
 ## Added
 ## Changed
 ## Fixed
