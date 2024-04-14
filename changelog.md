@@ -1,3 +1,11 @@
+# [0.1.3] - 2024-04-14
+## Added
+- Fey Step A-A animation & macro for randomisation of destination
+- Dm Teleport macro
+- DeleteLastTEmplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards 
+## Fixed
+
+
 # [0.1.2] - 2024-04-10
 ## Fixed
 - Breath of the Dragon ItemMacro, see issues
