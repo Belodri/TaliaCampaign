@@ -2,9 +2,11 @@
 ## Added
 - Fey Step A-A animation & macro for randomisation of destination
 - Dm Teleport macro
-- DeleteLastTEmplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards 
-## Fixed
+- DeleteLastTEmplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards
+- Jump macro with range calculation & animation
 
+## Known Issues
+- Sunbeam (Sun Statue) active effect is broken and needs to be reworked from the ground up to be less dependant on other modules.
 
 # [0.1.2] - 2024-04-10
 ## Fixed
