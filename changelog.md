@@ -6,6 +6,8 @@
 - Jump macro with range calculation & animation
 - Magic Items:
   - High Priest's Obsidian Battleaxe
+  - Handwraps of Swift Strikes
+  - Royal Commander's Cloak
     
 - Spells:
   - Spiritual Weapon
