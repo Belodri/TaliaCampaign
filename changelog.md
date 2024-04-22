@@ -5,9 +5,10 @@
 - DeleteLastTEmplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards
 - Jump macro with range calculation & animation
 - Magic Items:
-- - High Priest's Obsidian Battleaxe
+  - High Priest's Obsidian Battleaxe
+    
 - Spells:
-- - Spiritual Weapon
+  - Spiritual Weapon
 
 ## Known Issues
 - Sunbeam (Sun Statue) active effect is broken and needs to be reworked from the ground up to be less dependant on other modules.
@@ -25,14 +26,14 @@
 - Function for handling token size changes via world script. Can be called via TaliaWorldScriptFunctions.makeLargerOrSmaller(token, mode, steps).
 - Macro (smallerOrLarger) for changing token size.
 - Potions
-- - Potion of Growth
+  - Potion of Growth
   - Potion of Diminuation
 
 # [0.1.1]
 ## Added
 - Hotkeys for layer selection (see settings for customisation)
 - Potions
-- - Potion of Maximum Power
+  - Potion of Maximum Power
   - Potion of Advantage
   - Potion of Greater Healing
   - Potion of Superior Healing
@@ -49,7 +50,7 @@
 - Homebrew Rule regarding the expiration of temporary hit points.
 - Figurine of a Rat
 - Potions
-- - Water Breathing
+  - Water Breathing
   - Bludgeoning Resistance
   - Piercing Resistance
   - Slashing Resistance
