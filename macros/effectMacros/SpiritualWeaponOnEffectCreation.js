@@ -21,7 +21,7 @@ if (!existing) {
     
     //modify item after it's been added to the actor
     const defaultSpellLevel = 6;
-    const spellLevel = effect.flags.effectivetray.spellLevel ? effect.flags.effectivetray.spellLevel : defaultSpellLevel;    //this is a dirty fix to get around limitations of the magicItems module
+    const spellLevel = effect?.flags?.effectivetray?.spellLevel ? effect.flags.effectivetray.spellLevel : defaultSpellLevel;    //this is a dirty fix to get around limitations of the magicItems module
     const damageDice = Math.floor(spellLevel/2);
     const damageFormula = `${damageDice}d8 + @mod`;
     
