@@ -4,6 +4,8 @@
 - Dm Teleport macro
 - DeleteLastTemplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards
 - Jump macro with range calculation & animation
+- Towering Pillar of Hats feature now properly works with all types of hats.
+  Due to this the active effects from 'Charismatic Wizard's Hat' and 'Shaman's Hat' were removed as they're no longer needed.
 - Magic Items:
   - High Priest's Obsidian Battleaxe
   - Handwraps of Swift Strikes
