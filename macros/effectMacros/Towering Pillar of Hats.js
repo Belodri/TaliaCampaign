@@ -16,8 +16,8 @@ if(effect.changes[0].key !== "system.abilities.cha.value" || effect.changes[0].m
 const changesToEffect = duplicate(effect);
 changesToEffect.changes[0].value = numberOfHatsStr;
 //change the description to reflect the current bonus
-changesToEffect.description = `"<p>The majestic tower of hats upon your head currently grants you a +${Number(numberOfHatsStr)} bonus to your Charisma score.</p>"`;
+changesToEffect.description = `<p>The majestic tower of hats upon your head currently grants you a +${Number(numberOfHatsStr)} bonus to your Charisma score.</p>`;
 
 console.log('Changes from worn hats: ',changesToEffect);
 //apply changes to the actual effect
-await effect.update({changesToEffect});
+await effect.update(changesToEffect);
