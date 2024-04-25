@@ -14,9 +14,9 @@
     
 - Spells:
   - Spiritual Weapon
-
-## Known Issues
-- Sunbeam (Sun Statue) active effect is broken and needs to be reworked from the ground up to be less dependant on other modules.
+  - Mind Sliver
+## Fixed
+- Sun Statue (for the time being at least until magicItems module is fixed)
 
 # [0.1.2]
 ## Fixed
