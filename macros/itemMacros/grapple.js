@@ -1,4 +1,6 @@
 //uses monk's token bar
+//investigate requestor module to replace monks token bar
+
 
 //get number of targeted tokens
 const numberOfTargets = game.user.targets.size;
