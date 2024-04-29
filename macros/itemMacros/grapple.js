@@ -1,6 +1,7 @@
 //uses monk's token bar
-//investigate requestor module to replace monks token bar
+//not suitable: investigate requestor module to replace monks token bar
 
+//doesn't check for distance but that can be added later if needed
 
 //get number of targeted tokens
 const numberOfTargets = game.user.targets.size;
@@ -19,13 +20,6 @@ const actorSizes = Object.keys(CONFIG.DND5E.actorSizes);
 //get actor & target sizes as numbers corresponding to the index in the actorSizes array for easier comparison
 const actorSizeIndex = actorSizes.indexOf(actor.system.traits.size);
 const targetSizeIndex = actorSizes.indexOf(targetedToken.document.actor.system.traits.size);
-
-//check for distance
-const targetOrigin = targetedToken.center;
-const ray = new Ray(targetedToken, token);
-
-//const distance = canvas.grid.measureDistance({ray}, {gridSpace: true});
-console.log(distance)
 
 //check for features/items/effects that affect size calculations for grappling
 //using the custom flag "flags.world.grapplingSizeBonus" for this; defaults to 0 if none is found
