@@ -18,6 +18,7 @@
   - Mind Sliver
 ## Fixed
 - Sun Statue (for the time being at least until magicItems module is fixed)
+- Vice Grip AE attaching token to Aviana
 
 # [0.1.2]
 ## Fixed
