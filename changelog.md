@@ -8,6 +8,7 @@
   Due to this the active effects from 'Charismatic Wizard's Hat' and 'Shaman's Hat' were removed as they're no longer needed.
 - All alchemical ingredients mentioned in the recipe book
 - Grapple feature
+- Stable Frenzy: automated damage rerolls for piercing damage
 - Magic Items:
   - High Priest's Obsidian Battleaxe
   - Handwraps of Swift Strikes
