@@ -1,5 +1,6 @@
 # [0.1.3]
 ## Added
+- Macro & roll tables for session inspiration
 - Fey Step A-A animation & macro for randomisation of destination
 - Dm Teleport macro
 - DeleteLastTemplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards
