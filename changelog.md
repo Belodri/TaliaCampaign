@@ -1,6 +1,7 @@
 # [0.1.3]
 ## Added
 - Macro & roll tables for session inspiration
+- Macro 'Mark Defeated' to match the look of dead tokens out of combat to ones in combat
 - Fey Step A-A animation & macro for randomisation of destination
 - Dm Teleport macro
 - DeleteLastTemplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards
