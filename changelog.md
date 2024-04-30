@@ -1,24 +1,49 @@
-# [0.1.2] - 2024-04-10
+# [0.1.3]
+## Added
+- Macro & roll tables for session inspiration
+- Macro 'Mark Defeated' to match the look of dead tokens out of combat to ones in combat
+- Fey Step A-A animation & macro for randomisation of destination
+- Dm Teleport macro
+- DeleteLastTemplate (Player) macro to enable deleting of user's placed templates even if other users' templates have been placed afterwards
+- Jump macro with range calculation & animation
+- Towering Pillar of Hats feature now properly works with all types of hats.
+  Due to this the active effects from 'Charismatic Wizard's Hat' and 'Shaman's Hat' were removed as they're no longer needed.
+- All alchemical ingredients mentioned in the recipe book
+- Grapple feature
+- Stable Frenzy: automated damage rerolls for piercing damage
+- Magic Items:
+  - High Priest's Obsidian Battleaxe
+  - Handwraps of Swift Strikes
+  - Royal Commander's Cloak
+    
+- Spells:
+  - Spiritual Weapon
+  - Mind Sliver
+## Fixed
+- Sun Statue (for the time being at least until magicItems module is fixed)
+- Vice Grip AE attaching token to Aviana
+
+# [0.1.2]
 ## Fixed
 - Breath of the Dragon ItemMacro, see issues
 
-# [0.1.2] - 2024-04-09
+# [0.1.2]
 ## Fixed
 - Breath of the Dragon ItemMacro, see issues
 
-# [0.1.1] - 2024-04-08
+# [0.1.1]
 ## Added
 - Function for handling token size changes via world script. Can be called via TaliaWorldScriptFunctions.makeLargerOrSmaller(token, mode, steps).
 - Macro (smallerOrLarger) for changing token size.
 - Potions
-- - Potion of Growth
+  - Potion of Growth
   - Potion of Diminuation
 
-# [0.1.1] - 2024-04-07
+# [0.1.1]
 ## Added
 - Hotkeys for layer selection (see settings for customisation)
 - Potions
-- - Potion of Maximum Power
+  - Potion of Maximum Power
   - Potion of Advantage
   - Potion of Greater Healing
   - Potion of Superior Healing
@@ -27,7 +52,7 @@
 ## Known Issues
 - Potion of Maximum Power doesn't consume it's AE which needs to be done via effect macro instead. The limitation causing this will likely get fixed in dnd5e3.2.
 
-# [0.1.1] - 2024-04-06
+# [0.1.1]
 ## Added
 - AE for Danger Sense with advantage reminder.
 - Stable Footing AE (via CE) on Rage
@@ -35,7 +60,7 @@
 - Homebrew Rule regarding the expiration of temporary hit points.
 - Figurine of a Rat
 - Potions
-- - Water Breathing
+  - Water Breathing
   - Bludgeoning Resistance
   - Piercing Resistance
   - Slashing Resistance
@@ -102,8 +127,7 @@ Changelog started
 - Tattoo of the Mountain image is missing.
 - Vice Grip's warpgate mutation is currently only applying one way: target token attaching to actor token, it should be both ways.
 
-# [] - xxxx-xx-xx
-- Calendar time upon starting:
+# []
 ## Added
 ## Changed
 ## Fixed
