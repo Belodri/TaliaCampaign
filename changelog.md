@@ -1,3 +1,7 @@
+# [0.1.4]
+## Added
+- Rat Familiar Perception & Stealth proficiency
+
 # [0.1.3]
 ## Added
 - Macro & roll tables for session inspiration
