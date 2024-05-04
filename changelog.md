@@ -4,11 +4,14 @@
 - Rat Familiar Perception & Stealth proficiency
 - Magic Items:
   - Mantle of the Arcane Trickster
+- Consumable type 'Spell Gem'
 ## Fixed
 - User Permissions for warpgate operations. Affects:
   - Potion of Growth
   - Potion of Diminuation
   - Enlarge/Reduce
+- Surge checks now roll properly for NPC actors
+- Surge checks now exclude consumables of 'Spell Gem', 'Potion', 'Poison' & 'Food' types.
 
 # [0.1.3]
 ## Added
