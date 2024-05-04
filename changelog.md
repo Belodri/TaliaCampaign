@@ -1,7 +1,8 @@
 # [0.1.4]
 ## Added
 - Rat Familiar Perception & Stealth proficiency
-
+- Magic Items:
+  - Mantle of the Arcane Trickster
 ## Fixed
 - User Permissions for warpgate operations. Affects:
   - Potion of Growth
