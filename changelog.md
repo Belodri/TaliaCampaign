@@ -2,6 +2,12 @@
 ## Added
 - Rat Familiar Perception & Stealth proficiency
 
+## Fixed
+- User Permissions for warpgate operations. Affects:
+  - Potion of Growth
+  - Potion of Diminuation
+  - Enlarge/Reduce
+
 # [0.1.3]
 ## Added
 - Macro & roll tables for session inspiration
