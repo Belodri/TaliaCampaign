@@ -1,5 +1,6 @@
 # [0.1.4]
 ## Added
+- World Script functions: linkActiveEffects() and unlinkActiveEffects()
 - Rat Familiar Perception & Stealth proficiency
 - Magic Items:
   - Mantle of the Arcane Trickster
