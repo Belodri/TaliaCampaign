@@ -2,9 +2,17 @@
 ## Added
 - World Script functions: linkActiveEffects() and unlinkActiveEffects()
 - Rat Familiar Perception & Stealth proficiency
+- Consumable type 'Spell Gem'
+- Loviatar's Love blessing for Fearghas
+- Spells:
+  - Continual Flame 
 - Magic Items:
   - Mantle of the Arcane Trickster
-- Consumable type 'Spell Gem'
+- Potions:
+  - Potion of Legendary Resistance
+  - Potion of Time Stop
+  - Potion of Immediate Rest
+
 ## Fixed
 - User Permissions for warpgate operations. Affects:
   - Potion of Growth
