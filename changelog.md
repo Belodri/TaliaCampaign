@@ -4,6 +4,7 @@
 - Rat Familiar Perception & Stealth proficiency
 - Consumable type 'Spell Gem'
 - Loviatar's Love blessing for Fearghas
+- Macros for Aviana: "Apply Slashed" and "Apply Crushed" until a better way to handle Stable Frenzy's effect can be found.
 - Spells:
   - Continual Flame 
 - Magic Items:
