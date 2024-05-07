@@ -1,3 +1,27 @@
+# [0.1.4]
+## Added
+- World Script functions: linkActiveEffects() and unlinkActiveEffects()
+- Rat Familiar Perception & Stealth proficiency
+- Consumable type 'Spell Gem'
+- Loviatar's Love blessing for Fearghas
+- Macros for Aviana: "Apply Slashed" and "Apply Crushed" until a better way to handle Stable Frenzy's effect can be found.
+- Spells:
+  - Continual Flame 
+- Magic Items:
+  - Mantle of the Arcane Trickster
+- Potions:
+  - Potion of Legendary Resistance
+  - Potion of Time Stop
+  - Potion of Immediate Rest
+
+## Fixed
+- User Permissions for warpgate operations. Affects:
+  - Potion of Growth
+  - Potion of Diminuation
+  - Enlarge/Reduce
+- Surge checks now roll properly for NPC actors
+- Surge checks now exclude consumables of 'Spell Gem', 'Potion', 'Poison' & 'Food' types.
+
 # [0.1.3]
 ## Added
 - Macro & roll tables for session inspiration
