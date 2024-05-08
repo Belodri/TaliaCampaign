@@ -1,3 +1,7 @@
+# [0.1.5]
+## Added
+- Loviatar's Love blessing for Fearghas (actually added to the correct actor this time)
+
 # [0.1.4]
 ## Added
 - World Script functions: linkActiveEffects() and unlinkActiveEffects()
