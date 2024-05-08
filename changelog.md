@@ -2,6 +2,9 @@
 ## Added
 - Loviatar's Love blessing for Fearghas (actually added to the correct actor this time)
 
+## Fixed
+- Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
+
 # [0.1.4]
 ## Added
 - World Script functions: linkActiveEffects() and unlinkActiveEffects()
