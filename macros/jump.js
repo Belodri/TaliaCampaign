@@ -1,12 +1,22 @@
 //required modules: warpgate, sequencer, jb2a (free)
 
+let additionalDistance = 0;
+//factor in other features that give additions to jump distance
+//Athletic feature (giving +5ft to jump distance)
+if(actor.items.getName("Athletic")) {
+    additionalDistance = additionalDistance + 5;
+}
+
+
 const acr = actor.getRollData().skills.acr.total;
 const ath = actor.getRollData().skills.ath.total;
 //the distance is based off either Athletics or Acrobatics skill, whichever one is higher
 let higherSkill = acr > ath ? acr : ath;
 //(Base (+0) = 5ft; +5ft per +2) (i.e. Athletics 8 = 25ft)
 higherSkill = higherSkill % 2 === 0 ? higherSkill : higherSkill - 1;    //round to next lower even number if odd
-const distanceInFeet = (5 + (higherSkill/2)*5);
+
+
+const distanceInFeet = (5 + (higherSkill/2)*5) + additionalDistance;
 const sizeInSquares = distanceInFeet/5;
 
 const tokenCenter = token.center;
