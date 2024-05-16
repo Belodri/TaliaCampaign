@@ -34,4 +34,5 @@ if(!duplicate) {
     actor.updateEmbeddedDocuments("Item", [{_id: duplicate.id, "system.quantity": duplicate.system.quantity + 1}]);
 }   
 ui.notifications.notify(`Added ${itemData.name} to your inventory.`)
+actor.updateEmbeddedDocuments("Item", [{_id: item.id, "system.uses.value": item.system.uses.value - 1}]);
 return true;
