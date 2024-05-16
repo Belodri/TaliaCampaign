@@ -3,6 +3,7 @@
 - Loviatar's Love blessing for Fearghas (actually added to the correct actor this time)
 - Adjust Density feature active effects
 - Mending (Spellwrought Tattoo) to Aviana
+- Wand of Entangle to Aviana
 
 ## Fixed
 - Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
