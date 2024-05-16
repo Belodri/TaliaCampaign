@@ -4,6 +4,10 @@
 - Adjust Density feature active effects
 - Mending (Spellwrought Tattoo) to Aviana
 - Wand of Entangle to Aviana
+- Potion of Climbing
+- Slumbering Dragon Vessel
+- Ale
+- Olive Oil
 
 ## Fixed
 - Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
