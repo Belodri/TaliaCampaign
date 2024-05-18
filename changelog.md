@@ -8,6 +8,7 @@
 - Slumbering Dragon Vessel
 - Ale
 - Olive Oil
+- Chef feat automation
 
 ## Fixed
 - Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
