@@ -2,13 +2,17 @@
 ## Added
 - Loviatar's Love blessing for Fearghas (actually added to the correct actor this time)
 - Adjust Density feature active effects
-- Mending (Spellwrought Tattoo) to Aviana
-- Wand of Entangle to Aviana
+- Magic Items:
+  - Spelleater's Charm to Aviana
+  - Mending (Spellwrought Tattoo) to Aviana
+  - Wand of Entangle to Aviana
+  - Slumbering Dragon Vessel to Shalkoc
+
 - Potion of Climbing
-- Slumbering Dragon Vessel
 - Ale
 - Olive Oil
 - Chef feat automation
+
 
 ## Fixed
 - Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
