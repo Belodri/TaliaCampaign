@@ -7,6 +7,7 @@
   - Mending (Spellwrought Tattoo) to Aviana
   - Wand of Entangle to Aviana
   - Slumbering Dragon Vessel to Shalkoc
+  - Mindblasting Cap to Plex
 
 - Potion of Climbing
 - Ale
