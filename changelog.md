@@ -8,12 +8,14 @@
   - Wand of Entangle to Aviana
   - Slumbering Dragon Vessel to Shalkoc
   - Mindblasting Cap to Plex
+  - Wyrmreaver Gauntlets to Shalkoc
+  - Rod of Hellish Flames to Fearghas
 
 - Potion of Climbing
 - Ale
 - Olive Oil
 - Chef feat automation
-
+- Enforced targetting via world script  (might expand this into it's own module at some point)
 
 ## Fixed
 - Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
