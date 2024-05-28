@@ -12,7 +12,8 @@
   - Rod of Hellish Flames to Fearghas
   - +3 Dragonhide Belt to Shalkoc
   - Vox Speaker to Plex
-
+  - Pipe of Remembrance to Plex
+    
 - Potion of Climbing
 - Ale
 - Olive Oil
