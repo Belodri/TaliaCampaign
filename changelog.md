@@ -10,8 +10,8 @@
   - Mindblasting Cap to Plex
   - Wyrmreaver Gauntlets to Shalkoc
   - Rod of Hellish Flames to Fearghas
-  - +3 Dragonhide Belt
-  - Vox Speaker
+  - +3 Dragonhide Belt to Shalkoc
+  - Vox Speaker to Plex
 
 - Potion of Climbing
 - Ale
