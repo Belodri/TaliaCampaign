@@ -21,6 +21,7 @@
 - Jump macro now correctly factors in the additional jump distance provided by the "Athletic" feature.
 - Jump macro now correctly factors in the doubled jump distance provided by the active effect of the "Adjust Density" feature.
 - Spellscribing: A Dying Profession - fixed wording and formatting
+- Crushed debuff
 
 # [0.1.4]
 ## Added
