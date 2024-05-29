@@ -13,7 +13,10 @@
   - +3 Dragonhide Belt to Shalkoc
   - Vox Speaker to Plex
   - Pipe of Remembrance to Plex
-    
+
+- Class Features:
+  - Barbarian: Barbaric Critical
+
 - Potion of Climbing
 - Ale
 - Olive Oil
