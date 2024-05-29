@@ -16,6 +16,7 @@
 
 - Class Features:
   - Barbarian: Barbaric Critical
+  - Monk: Purity of Body
 
 - Potion of Climbing
 - Ale
