@@ -20,12 +20,7 @@ new Dialog({
 
 
 async function doRestoreKi() {
-    // check equipped & attuned
-    if(game.system.version !== "3.1.2") {
-        ui.notifications.warn("Item macro not compatible with system version. (Attunment system)");
-        return;
-    }
-    if(item.system.attunement !== 2 || item.system.equipped !== true) {
+    if((item.system.attunement === "required" && !item.system.attuned)|| item.system.equipped !== true) {
         ui.notifications.warn("You need to have this item attuned and equipped to use it's effects.");
         return;
     }
