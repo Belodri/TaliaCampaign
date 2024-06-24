@@ -4,7 +4,12 @@
 ### Magic Items
 - Charlatan's Die for Plex
 
+### Macro: "Damage or Heal Self"
+Macro allows users to apply a chosen amount of damage, healing, or temphp to owned tokens while respecting the system's application methods.
+This means parameters that alter damage taken, such as resistances or immunities, are taken into account.
+
 ## Changed
+
 ### Armor of Agathys
 Changed how it works and added all of the spell's effects to the active effect.
 ###### from: 
@@ -32,6 +37,10 @@ Replaced the spell Wither and Bloom, granted by Vrazzak's spellbook, with Life f
 > 
 > When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd.
 
+## Fixed
+
+### Spellbooks
+Spellbooks now correctly grant and remove spells from actors upon equip/unequip.
 
 # 23/06/2024
 ## Added
